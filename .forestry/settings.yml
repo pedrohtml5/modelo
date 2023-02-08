@@ -7,7 +7,6 @@ sections:
 - type: jekyll-pages
   label: Bl
   create: documents
-  match: "**/*"
   templates:
   - simple-footer
 - type: document
